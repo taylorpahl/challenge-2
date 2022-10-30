@@ -15,12 +15,12 @@ header h1 {
 
 header a {
     position: relative;
-    top: -25px;
+    top: -35px;
     float: right;
     text-decoration: none;
-    background-color: rgb(43, 75, 102);
+    
     padding: 2px;
-    margin: 0px 4px 0px 4px;
+    margin: 0px 7px 0px 7px;
     font-size: 25px;
     color: snow;
 }
