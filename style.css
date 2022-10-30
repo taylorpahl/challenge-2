@@ -4,8 +4,7 @@ body {
 
 header {
     background-color: rgb(45, 125, 156);
-    display: flex;
-    padding: 30px;
+    padding: 14px;
     color: snow;
     
 }
@@ -15,10 +14,13 @@ header h1 {
 }
 
 header a {
+    position: relative;
+    top: -25px;
+    float: right;
     text-decoration: none;
     background-color: rgb(43, 75, 102);
-    padding: 5px;
-    margin: 14px 0px 9px 90px;
+    padding: 2px;
+    margin: 0px 4px 0px 4px;
     font-size: 25px;
     color: snow;
 }
