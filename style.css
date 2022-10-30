@@ -10,15 +10,19 @@ header {
 }
 
 header h1 {
-    font-size: 50px;
+    position: relative;
+    left: -20px;
+    font-size: 35px;
+    background-color: rgb(52, 94, 129);
+    padding: 4px 4px 4px 70px;
+    display: inline;
 }
 
 header a {
     position: relative;
-    top: -35px;
+    top: 10px;
     float: right;
     text-decoration: none;
-    
     padding: 2px;
     margin: 0px 7px 0px 7px;
     font-size: 25px;
