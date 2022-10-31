@@ -1,12 +1,12 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    min-width: 830px;
 }
 
 header {
     background-color: rgb(45, 125, 156);
     padding: 14px;
     color: snow;
-    
 }
 
 header h1 {
@@ -27,4 +27,62 @@ header a {
     margin: 0px 7px 0px 7px;
     font-size: 25px;
     color: snow;
+}
+
+header a:hover {
+    background-color: rgb(50, 99, 139);
+}
+
+main {
+    background-color: rgb(143, 214, 214);
+    
+}
+
+h2 {
+    font-size: 30px;
+    color: rgb(50, 99, 139);
+    position: relative;
+    top: -50px;
+    float: right;
+    margin: 0px 40px 15px 0px;
+}
+
+h3 {
+    font-size: 40px;
+    color: rgb(25, 76, 117);
+    margin-top: 180px;
+    display: flex;
+    flex-direction: column;
+}
+
+p {
+    color: rgb(15, 53, 85);
+    position: relative;
+    left: 230px;
+    top: -40px;
+    max-width: 60%;
+}
+
+.card-big {
+    border-style: solid;
+    border-width: 10px;
+    padding: 30px;
+    margin: 20px 0px 0px 20px;
+    width: 700px;
+    height: 350px;
+}
+
+.card-section {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.card-small {
+    border-style: solid;
+    border-width: 10px;
+    padding: 30px;
+    margin: 20px 40px 0px 20px;
+    width: 280px;
+    height: 100px;
 }
