@@ -106,7 +106,7 @@ p {
 }
 
 .card-big:hover {
-    background-color: bisque;
+    background-color: rgb(148, 187, 219);
 }
 
 .card-section {
@@ -125,7 +125,7 @@ p {
 }
 
 .card-small:hover {
-    background-color: bisque;
+    background-color: rgb(148, 187, 219);
 }
 
 .contact {
