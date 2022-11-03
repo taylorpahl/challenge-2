@@ -4,52 +4,69 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./reset.css" />
-    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" type="text/css" href="./reset.css" />
+    <link rel="stylesheet" type="text/css" href="./style.css">
     <title>Portfolio</title>
 </head>
 <body>
     <header>
-        <h1>Taylor Pahl</h1>
-        <a href="">Resume</a>
-        <a href="">Contact Me</a>
-        <a href="">Work</a>
-        <a href="">About Me</a>
+        <div class="container container-nav">
+            <div class="titles">
+                <h1>Taylor Pahl</h1>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="">About Me</a></li>
+                    <li><a href="">Work</a></li>
+                    <li><a href="">Contact Me</a></li>
+                    <li><a href="">Resume</a></li>
+                </ul>
+            </nav>
+        </div>
     </header>
     <main>
-        <h2>Cool Subheader</h2>
-        <section>
+        <section class="subheader">
+            <h2>Cool Subheader</h2>
+        </section>
+        <section class="about">
             <h3>About Me</h3>
             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vitae consequatur dolorem eius eveniet odio cum voluptatem. Soluta explicabo corrupti enim ratione provident alias quia veritatis fugiat pariatur, nam nostrum voluptatum.</p>
         </section>
-        <section>
+        <section class="main">
             <h3>Work</h3>
             <div class="card-big">
-                <h4>Surf Report</h4>
+                <a href="">Surf Report</a>
             </div>
             <div class="card-section">
                 <div class="card-small">
-                    <h4>LED Wall</h4>
+                    <a href="">LED Wall</a>
                 </div>
                 <div class="card-small">
-                    <h4>Calculator</h4>
+                    <a href="">Calculator</a>
                 </div>
                 <div class="card-small">
-                    <h4>Pastel Pretzels</h4>
+                    <a href="">Pastel Pretzels</a>
                 </div>
                 <div class="card-small">
-                    <h4>Run Buddy</h4>
+                    <a href="">Run Buddy</a>
                 </div>
             </div>
         </section>
-        <section>
+        <section class="contact">
             <h3>Contact Me</h3>
+            <div>
+                <a href="">555-555-555</a>
+                <a href="">email@gmail.com</a>
+                <a href="">Github</a>
+                <a href="">Twitter</a>
+                <a href="">Spotify</a>
+            </div>
         </section>
         
         
     </main>
     <footer>
-
+        
     </footer>
 </body>
 </html>
