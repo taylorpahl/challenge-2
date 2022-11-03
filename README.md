@@ -21,17 +21,9 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 Potential employers can use this webpage to view my prior work.
 
-    ```md
-    ![alt text](assets/images/_Users_taylorpahl_bootcamp_challenge-2_index.html.png)
-    ```
+    ![Alt text](assets/images/_Users_taylorpahl_bootcamp_challenge-2_index.html.png)
 
 ## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
 
 https://www.softwarehow.com/take-full-webpage-screenshot/
 
