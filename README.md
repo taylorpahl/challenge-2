@@ -16,7 +16,7 @@ This website sereves as a portfolio where employers can find projects that I hav
 
 Potential employers can use this webpage to view my prior work.
 
-    ![Alt text](/challenge-2/assets/images/_Users_taylorpahl_bootcamp_challenge-2_index.html.png?raw=true "")
+    ![alt text](https://github.com/taylorpahl/challenge-2/blob/main/assets/images/_Users_taylorpahl_bootcamp_challenge-2_index.html.png?raw=true)
 
 
 ## Credits
@@ -33,11 +33,6 @@ https://adiati.com/how-to-create-a-responsive-navigation-bar-with-flexbox-and-me
 
 See LICENSE in root folder of challenge-2 repository for license information.
 
-## Badges
-
-        ![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-        Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
 
 ## Features
 
