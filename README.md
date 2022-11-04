@@ -16,7 +16,7 @@ This website sereves as a portfolio where employers can find projects that I hav
 
 Potential employers can use this webpage to view my prior work.
 
-    ![image](/assets/images/_Users_taylorpahl_bootcamp_challenge-2_index.html.png)
+![image](/assets/images/_Users_taylorpahl_bootcamp_challenge-2_index.html.png)
 
 
 ## Credits
