@@ -1,13 +1,16 @@
+/* Sets font for the whole webpage */
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+/* Formats and styles header */
 header {
     background-color: rgb(45, 125, 156);
     padding: 14px;
     color: snow;
 }
 
+/* Formats and styles h1 tag */
 h1 {
     position: relative;
     left: -20px;
@@ -17,6 +20,7 @@ h1 {
     display: inline;
 }
 
+/* Formats and styles profile image */
 img {
     position: absolute;
     width: 120px;
@@ -26,6 +30,7 @@ img {
     z-index: 1;
 }
 
+/* Formats navigation links */
 nav a {
     position: relative;
     top: 10px;
@@ -37,38 +42,44 @@ nav a {
     color: snow;
 }
 
+/* Changes color when hovering or focusing on navigation links */
 nav a:hover,
 nav a:focus {
     color: rgb(13, 41, 59);
 }
 
+/* Formats navigation link section */
 .container {
     width: 100%;
     max-width: 992px;
 }
 
+/* Formats navigation link section */
 .container-nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
+/* Formats navigation links */
 nav ul {
     list-style: none;
     padding: 10px;
     display: flex;
 }
 
+/* Sets background color for main section */
 main {
     background-color: rgb(240, 240, 240);
-    
 }
 
+/* Styles subheader */
 .subheader {
     height: 180px;
     background-color: rgb(45, 61, 61);
 }
 
+/* Sets formatting and styles for h2 tags */
 h2 {
     font-size: 30px;
     color: snow;
@@ -79,6 +90,7 @@ h2 {
     z-index: 2;
 }
 
+/* Sets formatting and styles for h3 tags */
 h3 {
     font-size: 40px;
     color: rgb(25, 76, 117);
@@ -86,27 +98,31 @@ h3 {
     flex-direction: column;
 }
 
+/* Formats "about" section */
 .about {
     margin: 40px 0px 0px 40px;
-    
 }
 
+/* Sets formatting and styles for paragragh tags */
 p {
     color: rgb(15, 53, 85);
     max-width: 80%;
     margin: 10px 10px 0px 30px;
 }
 
+/* Formats "main" section */
 .main {
     margin: 40px 0px 0px 40px;
 }
 
+/* Styles anchor tags in main section */
 .main a {
     text-decoration: none;
     font-size: 30px;
     color: rgb(25, 76, 117);
 }
 
+/* Sets formatting and styles for big card */
 .card-big {
     border: solid rgb(25, 76, 117);
     border-width: 10px;
@@ -115,10 +131,12 @@ p {
     height: 350px;
 }
 
+/* Changes background color when hovering over the big card */
 .card-big:hover {
     background-color: rgb(148, 187, 219);
 }
 
+/* Sets formatting for small card section */
 .card-section {
     display: flex;
     flex-direction: row;
@@ -126,6 +144,7 @@ p {
     margin-bottom: 40px;
 }
 
+/* Sets formatting and styles for small cards */
 .card-small {
     border: solid rgb(25, 76, 117);
     border-width: 10px;
@@ -134,10 +153,12 @@ p {
     height: 100px;
 }
 
+/* Changes background color when hovering over small cards */
 .card-small:hover {
     background-color: rgb(148, 187, 219);
 }
 
+/* Sets formatting for "Contact Me" section */
 .contact {
     margin: 40px 0px 0px 40px;
     padding: 10px 0px 40px 0px;
@@ -147,6 +168,7 @@ p {
     margin-top: 30px;
 }
 
+/* styles "Contact Me" links */
 .contact a {
     font-size: 20px;
     color: rgb(25, 76, 117);
@@ -154,11 +176,13 @@ p {
     padding: 10px;
 }
 
+/* Sets the background for the footer */
 footer {
     background-color: rgb(45, 125, 156);
     height: 40px;
 }
 
+/* Changes format for large screens */
 @media screen and (max-width: 2000px) {
     
     .about p {
@@ -173,6 +197,7 @@ footer {
     }
 }
 
+/* Changes format for medium screens */
 @media screen and (max-width: 880px) {
     body {
         width: 100%;
@@ -211,6 +236,7 @@ footer {
     }
   }
 
+/* Changes format for small screens */
 @media screen and (max-width: 596px) {
     body {
         width: 100%;
