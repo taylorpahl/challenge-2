@@ -4,24 +4,19 @@
 
 This website sereves as a portfolio where employers can find projects that I have completed, links to my social media pages, and multiple ways to contact me. By building this webpage, I have increased my stock as a potential employee. Completing this project allowed me to learn how to build a website from scratch. I learned how to create and format code in a way that results in a presentable website by problem-solving on the fly.
 
-## Table of Contents (Optional)
+## Table of Contents
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+- [Features](#features)
 
-## Installation
-
-        What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
 ## Usage
 
 Potential employers can use this webpage to view my prior work.
 
-    ![ScreenShot](https://raw.github.com/taylorpahl/challenge-2/main/assets/images/_Users_taylorpahl_bootcamp_challenge-2_index.html.png)
+    ![Alt text](/challenge-2/assets/images/_Users_taylorpahl_bootcamp_challenge-2_index.html.png?raw=true "")
 
 
 ## Credits
