@@ -21,7 +21,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 Potential employers can use this webpage to view my prior work.
 
-    ![Alt text](/../assets/images/_Users_taylorpahl_bootcamp_challenge-2_index.html.png?raw=true)
+    ![ScreenShot](https://raw.github.com/taylorpahl/challenge-2/main/assets/images/_Users_taylorpahl_bootcamp_challenge-2_index.html.png)
 
 ## Credits
 
