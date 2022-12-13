@@ -125,12 +125,13 @@ p {
 /* Sets formatting and styles for big card */
 .card-big {
     background-image: url(assets/images/Screenshot-2022-12-12.png);
-    background-size: 105%;
+    background-size: 700px;
     border: solid rgb(25, 76, 117);
     border-width: 10px;
     padding: 30px;
     margin: 20px 0px 0px 20px;
     height: 350px;
+    max-width: 640px;
 }
 
 /* Changes background color when hovering over the big card */
@@ -153,6 +154,7 @@ p {
     padding: 30px;
     margin: 20px 0px 0px 20px;
     height: 100px;
+    max-width: 640px;
 }
 
 /* Changes background color when hovering over small cards */
@@ -236,6 +238,16 @@ footer {
         flex-direction: column;
         align-items: center;
     }
+    .card-big {
+        background-image: url(assets/images/Screenshot-2022-12-12.png);
+        background-size: 400px;
+        border: solid rgb(25, 76, 117);
+        border-width: 10px;
+        padding: 30px;
+        margin: 20px 0px 0px 20px;
+        height: 350px;
+        max-width: 640px;
+    }
   }
 
 /* Changes format for small screens */
@@ -274,5 +286,15 @@ footer {
         display: flex;
         flex-direction: column;
         align-items: center;
+    }
+    .card-big {
+        background-image: url(assets/images/Screenshot-2022-12-12.png);
+        background-size: 400px;
+        border: solid rgb(25, 76, 117);
+        border-width: 10px;
+        padding: 30px;
+        margin: 20px 0px 0px 20px;
+        height: 350px;
+        max-width: 640px;
     }
   }
