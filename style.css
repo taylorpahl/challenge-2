@@ -240,7 +240,7 @@ footer {
     }
     .card-big {
         background-image: url(assets/images/Screenshot-2022-12-12.png);
-        background-size: 400px;
+        background-size: 700px;
         border: solid rgb(25, 76, 117);
         border-width: 10px;
         padding: 30px;
@@ -294,7 +294,7 @@ footer {
         border-width: 10px;
         padding: 30px;
         margin: 20px 0px 0px 20px;
-        height: 350px;
+        height: 180px;
         max-width: 640px;
     }
   }
