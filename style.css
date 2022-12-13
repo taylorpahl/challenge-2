@@ -124,6 +124,8 @@ p {
 
 /* Sets formatting and styles for big card */
 .card-big {
+    background-image: url(assets/images/Screenshot-2022-12-12.png);
+    background-size: 105%;
     border: solid rgb(25, 76, 117);
     border-width: 10px;
     padding: 30px;
